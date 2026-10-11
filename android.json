@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-10T23:30:00+07:00",
+  "updated": "2026-10-11T16:20:00+07:00",
   "game": {
     "package": "com.durango.offserver",
     "version": "3.1.7",
@@ -113,6 +113,19 @@
       "body_en": "Download and update the game with Durango Launcher — Android 8.0 or newer"
     }
   ],
+  "countdown": {
+    "at": "2026-10-20T00:00:00+07:00",
+    "label": "เปิด OBT ใน",
+    "label_en": "OBT opens in",
+    "done": "เปิดแล้ว",
+    "done_en": "Live now",
+    "hide_after_hours": 72,
+    "tag": "Open beta",
+    "title": "โลกใหม่ เปิดให้ทุกคน",
+    "title_en": "A new world, open to all",
+    "title_done": "เปิดให้เล่นแล้ว เข้าเกมได้เลย",
+    "title_done_en": "Open now — jump in"
+  },
   "launcher": {
     "version": "1.1.0",
     "version_code": 2,
