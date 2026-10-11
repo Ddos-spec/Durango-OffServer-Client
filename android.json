@@ -1,29 +1,35 @@
 {
   "schema": 1,
-  "updated": "2026-10-11T16:26:00+07:00",
+  "updated": "2026-10-12T00:27:27+07:00",
   "game": {
     "package": "com.durango.offserver",
-    "version": "3.1.7",
-    "tag": "v3.1.7",
+    "version": "3.1.8",
+    "tag": "v3.1.8",
     "min_sdk": 26,
     "builds": {
       "arm64-v8a": {
-        "url": "https://github.com/ShuuuuShi/Durango-OffServer-Client/releases/download/v3.1.7/DurangoReborn.apk",
+        "url": "https://github.com/ShuuuuShi/Durango-OffServer-Client/releases/download/v3.1.8/DurangoReborn.apk",
         "mirrors": [],
-        "size": 830182360,
-        "sha256": "4f4ba365ebd9d2ec75e0cff9695bd65bc14015db8aea318f842ea8b3d2d936c1",
+        "size": 830219019,
+        "sha256": "6d4d276094a42790162bf11bd0decd0d9ddcc65deb7841f9739b152a65b1f18f",
         "version_code": 0
       },
       "armeabi-v7a": {
-        "url": "https://github.com/ShuuuuShi/Durango-OffServer-Client/releases/download/v3.1.7/DurangoReborn.apk",
+        "url": "https://github.com/ShuuuuShi/Durango-OffServer-Client/releases/download/v3.1.8/DurangoReborn.apk",
         "mirrors": [],
-        "size": 830182360,
-        "sha256": "4f4ba365ebd9d2ec75e0cff9695bd65bc14015db8aea318f842ea8b3d2d936c1",
+        "size": 830219019,
+        "sha256": "6d4d276094a42790162bf11bd0decd0d9ddcc65deb7841f9739b152a65b1f18f",
         "version_code": 0
       }
     }
   },
   "history": [
+    {
+      "version": "3.1.7",
+      "abi": "arm64-v8a",
+      "sha256": "4f4ba365ebd9d2ec75e0cff9695bd65bc14015db8aea318f842ea8b3d2d936c1",
+      "version_code": 0
+    },
     {
       "version": "3.1.5",
       "abi": "arm64-v8a",
@@ -70,6 +76,13 @@
     "gles_good": "3.0"
   },
   "news": [
+    {
+      "date": "2026-10-12",
+      "title": "Durango:Reborn 3.1.8",
+      "body": "ครเตอร์ภูเขาไฟสงบใช้ทีสโตน (ปุ่ม «ฝังทีสโตน») · ขี่สัตว์ใช้สกิลท่าถูกต้อง · ย้อมสีเลือกทีละช่อง · ความทนแสดง % · แก้ข้อความไทย",
+      "title_en": "Durango:Reborn 3.1.8",
+      "body_en": "Dormant volcano craters use T Stone (\"Insert T Stone\") · correct pet skill animation while riding · per-channel dye picker · durability shown in % · Thai text fixes"
+    },
     {
       "date": "2026-10-05",
       "title": "Durango:Reborn 3.1.7",
