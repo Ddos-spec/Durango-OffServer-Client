@@ -1,29 +1,35 @@
 {
   "schema": 1,
-  "updated": "2026-10-12T00:27:27+07:00",
+  "updated": "2026-10-12T19:11:58+07:00",
   "game": {
     "package": "com.durango.offserver",
-    "version": "3.1.8",
-    "tag": "v3.1.8",
+    "version": "3.1.9",
+    "tag": "v3.1.9",
     "min_sdk": 26,
     "builds": {
       "arm64-v8a": {
-        "url": "https://github.com/ShuuuuShi/Durango-OffServer-Client/releases/download/v3.1.8/DurangoReborn.apk",
+        "url": "https://github.com/ShuuuuShi/Durango-OffServer-Client/releases/download/v3.1.9/DurangoReborn.apk",
         "mirrors": [],
-        "size": 830219019,
-        "sha256": "6d4d276094a42790162bf11bd0decd0d9ddcc65deb7841f9739b152a65b1f18f",
+        "size": 831099491,
+        "sha256": "378ad36b2534f62a89539cc96b101149e5c02b2072a58b24dd0ea32374cf5f03",
         "version_code": 0
       },
       "armeabi-v7a": {
-        "url": "https://github.com/ShuuuuShi/Durango-OffServer-Client/releases/download/v3.1.8/DurangoReborn.apk",
+        "url": "https://github.com/ShuuuuShi/Durango-OffServer-Client/releases/download/v3.1.9/DurangoReborn.apk",
         "mirrors": [],
-        "size": 830219019,
-        "sha256": "6d4d276094a42790162bf11bd0decd0d9ddcc65deb7841f9739b152a65b1f18f",
+        "size": 831099491,
+        "sha256": "378ad36b2534f62a89539cc96b101149e5c02b2072a58b24dd0ea32374cf5f03",
         "version_code": 0
       }
     }
   },
   "history": [
+    {
+      "version": "3.1.8",
+      "abi": "arm64-v8a",
+      "sha256": "6d4d276094a42790162bf11bd0decd0d9ddcc65deb7841f9739b152a65b1f18f",
+      "version_code": 0
+    },
     {
       "version": "3.1.7",
       "abi": "arm64-v8a",
@@ -78,6 +84,13 @@
   "news": [
     {
       "date": "2026-10-12",
+      "title": "อัปเดต 3.1.9 — ไมค์พูดตามระยะ + แพ็กภาษา",
+      "body": "คุยด้วยเสียงกับคนใกล้ตัว (กดค้างปุ่มไมค์ซ้ายล่าง · ตั้งค่า ▸ ไมค์) · ตั้งค่า ▸ แพ็กภาษา โหลด/แปลภาษาเอง",
+      "title_en": "Update 3.1.9 — proximity voice chat + language packs",
+      "body_en": "Talk to nearby players (hold the mic button at the bottom left · Settings ▸ Voice chat) · Settings ▸ Language packs to download or translate languages"
+    },
+    {
+      "date": "2026-10-12",
       "title": "Durango:Reborn 3.1.8",
       "body": "ครเตอร์ภูเขาไฟสงบใช้ทีสโตน (ปุ่ม «ฝังทีสโตน») · ขี่สัตว์ใช้สกิลท่าถูกต้อง · ย้อมสีเลือกทีละช่อง · ความทนแสดง % · แก้ข้อความไทย",
       "title_en": "Durango:Reborn 3.1.8",
@@ -126,19 +139,6 @@
       "body_en": "Download and update the game with Durango Launcher — Android 8.0 or newer"
     }
   ],
-  "countdown": {
-    "at": "2026-10-20T00:00:00+07:00",
-    "label": "เปิด OBT ใน",
-    "label_en": "OBT opens in",
-    "done": "เปิดแล้ว",
-    "done_en": "Live now",
-    "hide_after_hours": 72,
-    "tag": "Open beta",
-    "title": "โลกใหม่ เปิดให้ทุกคน",
-    "title_en": "A new world, open to all",
-    "title_done": "เปิดให้เล่นแล้ว เข้าเกมได้เลย",
-    "title_done_en": "Open now — jump in"
-  },
   "launcher": {
     "version": "1.2.0",
     "version_code": 3,
@@ -154,5 +154,18 @@
     "facebook": "https://www.facebook.com/share/g/1BZp6apPM8/"
   },
   "manifest_url": "",
-  "manifest_mirrors": []
+  "manifest_mirrors": [],
+  "countdown": {
+    "at": "2026-10-20T00:00:00+07:00",
+    "label": "เปิด OBT ใน",
+    "label_en": "OBT opens in",
+    "done": "เปิดแล้ว",
+    "done_en": "Live now",
+    "hide_after_hours": 72,
+    "tag": "Open beta",
+    "title": "โลกใหม่ เปิดให้ทุกคน",
+    "title_en": "A new world, open to all",
+    "title_done": "เปิดให้เล่นแล้ว เข้าเกมได้เลย",
+    "title_done_en": "Open now — jump in"
+  }
 }
