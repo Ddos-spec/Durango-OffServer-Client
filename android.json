@@ -1,29 +1,35 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T20:36:56+07:00",
+  "updated": "2026-10-18T08:00:00+07:00",
   "game": {
     "package": "com.durango.offserver",
-    "version": "3.2.2",
-    "tag": "v3.2.2",
+    "version": "3.2.3",
+    "tag": "v3.2.3",
     "min_sdk": 26,
     "builds": {
       "arm64-v8a": {
-        "url": "https://github.com/SoloCode228/Durango-OffServer-Client/releases/download/v3.2.2/DurangoReborn.apk",
+        "url": "https://github.com/SoloCode228/Durango-OffServer-Client/releases/download/v3.2.3/DurangoReborn.apk",
         "mirrors": [],
-        "size": 828424413,
-        "sha256": "153c44edec72a937481c568dbeab91aeb890be86e2ecd3861e867a74a148dce2",
+        "size": 828597869,
+        "sha256": "dbe39c7ded88a71779d032e7a30564f0831c6224cb0ac07fa1e570f03bc92236",
         "version_code": 0
       },
       "armeabi-v7a": {
-        "url": "https://github.com/SoloCode228/Durango-OffServer-Client/releases/download/v3.2.2/DurangoReborn.apk",
+        "url": "https://github.com/SoloCode228/Durango-OffServer-Client/releases/download/v3.2.3/DurangoReborn.apk",
         "mirrors": [],
-        "size": 828424413,
-        "sha256": "153c44edec72a937481c568dbeab91aeb890be86e2ecd3861e867a74a148dce2",
+        "size": 828597869,
+        "sha256": "dbe39c7ded88a71779d032e7a30564f0831c6224cb0ac07fa1e570f03bc92236",
         "version_code": 0
       }
     }
   },
   "history": [
+    {
+      "version": "3.2.2",
+      "abi": "arm64-v8a",
+      "sha256": "153c44edec72a937481c568dbeab91aeb890be86e2ecd3861e867a74a148dce2",
+      "version_code": 0
+    },
     {
       "version": "3.2.0",
       "abi": "arm64-v8a",
@@ -94,6 +100,13 @@
     "gles_good": "3.0"
   },
   "news": [
+    {
+      "date": "2026-10-18",
+      "title": "Dorangu:Renewal 3.2.3",
+      "body": "แนะนำให้อัปเดต (ไม่บังคับ) · เลือดสาดหนักขึ้น + คราบเลือดติดพื้น (ตั้งค่าปริมาณ/เวลา/สีได้) · โล่ลาวาตอนวาร์ป (เปิดในตั้งค่า)",
+      "title_en": "Dorangu:Renewal 3.2.3",
+      "body_en": "Update recommended (not required) · heavier blood splash + blood stains on the ground (amount/time/color in settings) · lava shield on warp (turn on in settings)"
+    },
     {
       "date": "2026-10-17",
       "title": "Dorangu:Renewal 3.2.2",
