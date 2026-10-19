@@ -1,7 +1,16 @@
 {
   "servers": [
-    { "name": "[OBT] Dorangu:Renewal", "gateway": "http://201.18.211.139:8290" },
-    { "name": "[OBT] Supporter", "gateway": "http://201.18.211.139:8292" },
-    { "name": "[DEV] Test Server", "gateway": "http://201.18.211.139:8390" }
+    {
+      "name": "[5BD68A][OBT][-] [F5C518]Dorangu:Renewal[-]",
+      "gateway": "http://201.18.211.139:8290"
+    },
+    {
+      "name": "[5BD68A][OBT][-] [B8A4FF]Supporter[-]",
+      "gateway": "http://201.18.211.139:8292"
+    },
+    {
+      "name": "[7A7391][DEV] Test Server[-]",
+      "gateway": "http://201.18.211.139:8390"
+    }
   ]
 }
