@@ -1,29 +1,35 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T08:00:00+07:00",
+  "updated": "2026-10-20T00:00:00+07:00",
   "game": {
     "package": "com.durango.offserver",
-    "version": "3.2.3",
-    "tag": "v3.2.3",
+    "version": "3.2.4",
+    "tag": "v3.2.4",
     "min_sdk": 26,
     "builds": {
       "arm64-v8a": {
-        "url": "https://github.com/SoloCode228/Durango-OffServer-Client/releases/download/v3.2.3/DurangoReborn.apk",
+        "url": "https://github.com/SoloCode228/Durango-OffServer-Client/releases/download/v3.2.4/DurangoReborn.apk",
         "mirrors": [],
-        "size": 828597869,
-        "sha256": "dbe39c7ded88a71779d032e7a30564f0831c6224cb0ac07fa1e570f03bc92236",
+        "size": 828819937,
+        "sha256": "a5cf0c15ce4c2775f3bd45bc368713d881ee192062c59c51dad875924feaa23c",
         "version_code": 0
       },
       "armeabi-v7a": {
-        "url": "https://github.com/SoloCode228/Durango-OffServer-Client/releases/download/v3.2.3/DurangoReborn.apk",
+        "url": "https://github.com/SoloCode228/Durango-OffServer-Client/releases/download/v3.2.4/DurangoReborn.apk",
         "mirrors": [],
-        "size": 828597869,
-        "sha256": "dbe39c7ded88a71779d032e7a30564f0831c6224cb0ac07fa1e570f03bc92236",
+        "size": 828819937,
+        "sha256": "a5cf0c15ce4c2775f3bd45bc368713d881ee192062c59c51dad875924feaa23c",
         "version_code": 0
       }
     }
   },
   "history": [
+    {
+      "version": "3.2.3",
+      "abi": "arm64-v8a",
+      "sha256": "dbe39c7ded88a71779d032e7a30564f0831c6224cb0ac07fa1e570f03bc92236",
+      "version_code": 0
+    },
     {
       "version": "3.2.2",
       "abi": "arm64-v8a",
@@ -100,6 +106,13 @@
     "gles_good": "3.0"
   },
   "news": [
+    {
+      "date": "2026-10-20",
+      "title": "Dorangu:Renewal 3.2.4 · เปิด OBT",
+      "body": "ต้องอัปเดต · โลกใหม่ เปิด 20 ต.ค. 00:00 · เข้าเกมด้วย Durango ID ผ่านรันเช่อ (สมัครด้วย Discord) · อัปเดตรันเช่อเป็น 1.3.0 ก่อน · ขนาด UI บนมือถือ 5 ระดับ",
+      "title_en": "Dorangu:Renewal 3.2.4 · OBT",
+      "body_en": "Update required · new world opens 20 Oct 00:00 · log in with a Durango ID in the launcher (sign up with Discord) · update the launcher to 1.3.0 first · mobile UI size (5 steps)"
+    },
     {
       "date": "2026-10-18",
       "title": "Dorangu:Renewal 3.2.3",
@@ -179,14 +192,14 @@
     }
   ],
   "launcher": {
-    "version": "1.2.0",
-    "version_code": 3,
-    "url": "https://github.com/ShuuuuShi/Durango-OffServer-Client/releases/download/android-launcher-v1.0.0/DurangoLauncher-android-1.2.0.apk",
+    "version": "1.3.0",
+    "version_code": 4,
+    "url": "https://github.com/SoloCode228/Durango-OffServer-Client/releases/download/android-launcher-v1.0.0/DurangoLauncher-android-1.3.0.apk",
     "mirrors": [],
-    "size": 690395,
-    "sha256": "31f6f201ece2ab16f93623404f9622667907bc799d91b2c895c9c8145fefe806"
+    "size": 747720,
+    "sha256": "88027ffd5b9e18d2a5f95e4a1d03432b36c174d11c9f6f4fef3986c527193dc8"
   },
-  "min_launcher": 0,
+  "min_launcher": 4,
   "servers_url": "https://raw.githubusercontent.com/ShuuuuShi/Durango-OffServer-Client/main/servers.json",
   "links": {
     "discord": "https://discord.gg/RMfeg6Drbu",
